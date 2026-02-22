@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/kintai_db
+    url: jdbc:postgresql://localhost:5433/kintai_db
     username: kintai_user
     password: kintai_pass
     driver-class-name: org.postgresql.Driver
